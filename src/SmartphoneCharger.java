@@ -1,5 +1,5 @@
 public class SmartphoneCharger {
     public String chargePhone() {
-        return "Charging the smartphone.";
+        return "The smartphone is now plugged in and charging.";
     }
 }

@@ -1,5 +1,5 @@
 public class Refrigerator {
     public String startCooling(){
-        return "Refrigerator is cooling.";
+        return "The refrigerator is now cooling.";
     }
 }
